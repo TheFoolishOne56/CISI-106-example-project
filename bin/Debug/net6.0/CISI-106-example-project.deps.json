@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CISI-106-example-project/1.0.0": {
+        "runtime": {
+          "CISI-106-example-project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CISI-106-example-project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

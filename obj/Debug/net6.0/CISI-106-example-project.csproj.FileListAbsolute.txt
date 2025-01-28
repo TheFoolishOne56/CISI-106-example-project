@@ -1,0 +1,15 @@
+C:\Users\whitacrea\Documents\development\CISI-106-example-project\bin\Debug\net6.0\CISI-106-example-project.exe
+C:\Users\whitacrea\Documents\development\CISI-106-example-project\bin\Debug\net6.0\CISI-106-example-project.deps.json
+C:\Users\whitacrea\Documents\development\CISI-106-example-project\bin\Debug\net6.0\CISI-106-example-project.runtimeconfig.json
+C:\Users\whitacrea\Documents\development\CISI-106-example-project\bin\Debug\net6.0\CISI-106-example-project.dll
+C:\Users\whitacrea\Documents\development\CISI-106-example-project\bin\Debug\net6.0\CISI-106-example-project.pdb
+C:\Users\whitacrea\Documents\development\CISI-106-example-project\obj\Debug\net6.0\CISI-106-example-project.csproj.AssemblyReference.cache
+C:\Users\whitacrea\Documents\development\CISI-106-example-project\obj\Debug\net6.0\CISI-106-example-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whitacrea\Documents\development\CISI-106-example-project\obj\Debug\net6.0\CISI-106-example-project.AssemblyInfoInputs.cache
+C:\Users\whitacrea\Documents\development\CISI-106-example-project\obj\Debug\net6.0\CISI-106-example-project.AssemblyInfo.cs
+C:\Users\whitacrea\Documents\development\CISI-106-example-project\obj\Debug\net6.0\CISI-106-example-project.csproj.CoreCompileInputs.cache
+C:\Users\whitacrea\Documents\development\CISI-106-example-project\obj\Debug\net6.0\CISI-106-example-project.dll
+C:\Users\whitacrea\Documents\development\CISI-106-example-project\obj\Debug\net6.0\refint\CISI-106-example-project.dll
+C:\Users\whitacrea\Documents\development\CISI-106-example-project\obj\Debug\net6.0\CISI-106-example-project.pdb
+C:\Users\whitacrea\Documents\development\CISI-106-example-project\obj\Debug\net6.0\CISI-106-example-project.genruntimeconfig.cache
+C:\Users\whitacrea\Documents\development\CISI-106-example-project\obj\Debug\net6.0\ref\CISI-106-example-project.dll
