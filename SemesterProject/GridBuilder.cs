@@ -37,7 +37,13 @@ public class GridBuilder : IGridBuilder
 
     public void Parse(string line)
     {
-        var match = new Regex("\\((\\d+), (\\d+)\\) (#[0-9a-f]+)").Match(line);
-        
+        var match = new Regex("\\((?<x>\\d+), (?<y>\\d+)\\) (?<Hex>#[0-9a-f]+)").Match(line);
+        var x = match.Groups["x"];
+        var X1 = int.Parse(x.Value);
+        var y = match.Groups["y"];
+        int Y1 = int.Parse(y.Value);
+        var Hex = match.Groups["Hex"];
+        var HEX1 = int.parse(Hex.Value);
+        SvgBuilder.AddRectangle(X1*GridSize, Y1*GridSize, GridSize, GridSize, HEX1);
     }
 }
