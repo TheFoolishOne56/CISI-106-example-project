@@ -37,7 +37,7 @@ public class GridBuilder : IGridBuilder
 
     public void Parse(string line)
     {
-        // Replace this line with your code!
-        throw new NotImplementedException();
+        var match = new Regex("\\((\\d+), (\\d+)\\) (#[0-9a-f]+)").Match(line);
+        
     }
 }
