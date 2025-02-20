@@ -13,15 +13,15 @@ public static class Program
         var gridBuilder = new GridBuilder(svgBuilder, 8);
         
         var inputPath = "../input.txt";
-        using var sreamReader = new StreamReader(inputPath);
+        using var streamReader = new StreamReader(inputPath);
 
-        foreach (var line in streamReader.ReadToEnd().Split("\n")) (
+        foreach (var line in streamReader.ReadToEnd().Split("\n")) { 
             gridBuilder.Parse(line);
-        )
+        }
         Console.Write("Absolute path to save SVG at: ");
         var path = Console.ReadLine() ?? "";
         using var streamWriter = new StreamWriter(path);
 
-        streamWriter.WriteLine(svg);
+        streamWriter.WriteLine(svgBuilder.Build());
     }
 }
